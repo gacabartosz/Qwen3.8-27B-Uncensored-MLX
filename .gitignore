@@ -1,0 +1,6 @@
+# Wagi pobiera install-mac.sh z Hugging Face
+*.safetensors
+*/tokenizer.json
+.venv/
+.cache/
+.DS_Store
